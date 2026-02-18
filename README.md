@@ -1,5 +1,5 @@
 # Simulink-Power-Electronics-Models
-A small collection of Simulink-based power electronics models focused on grid-connected converters and control fundamentals.
+A curated collection of Simulink-based power electronics models focused on grid-connected converters and fundamental control structures.
 
 This repository includes modular and real-time compatible implementations of voltage source inverters (VSI), DC-fed grid-tied systems, and foundational control structures. The models are developed with fixed-step solvers and code-generation compatibility in mind, making them suitable for future deployment on real-time platforms (e.g., HIL environments).
 
