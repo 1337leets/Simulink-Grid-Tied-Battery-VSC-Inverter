@@ -16,3 +16,6 @@ All models are implemented with attention to:
 * Code generation readiness
 * Explicit parameter definitions
 * Modular and scalable architecture
+
+# Images
+![DC-Fed Grid-Connected Voltage Source Inverter (Open-Loop)](images/dcopenvsi.png)
