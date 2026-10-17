@@ -1,0 +1,8 @@
+# Simulink build artifacts
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.mexw64
+*_ert_rtw/
+*_grt_rtw/
